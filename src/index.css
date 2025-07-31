@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Aleo:wght@300;400;700&display=swap');
+
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme {
+  --font-aleo: "Aleo", serif;
+  --color-gray-cb: oklch(0.611 0.0036 197.06);
+  --color-blue-cb: oklch(0.642 0.1785 265.57);
+
+  /* Variables específicas para Franquicias */
+  --color-franquicias-primary: oklch(0.531 0.241 265.26);
+  --color-franquicias-secondary: oklch(0.515 0.262 264.64);
+  --color-franquicias-tertiary: oklch(0.637 0.180 251.45);
+}
+
+@keyframes slideDown {
+  0%   { opacity: 0; transform: translateY(-10px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+@utility animate-slide-down {
+  animation: slideDown 0.3s ease-out forwards;
+}

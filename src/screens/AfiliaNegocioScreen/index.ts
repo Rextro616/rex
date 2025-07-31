@@ -1,0 +1,1 @@
+export { default as AfiliaNegocioScreen } from './AfiliaNegocioScreen';

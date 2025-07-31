@@ -1,0 +1,1 @@
+export { default as TyCScreen } from './TyCScreen';

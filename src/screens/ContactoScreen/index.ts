@@ -1,0 +1,1 @@
+export { default as ContactoScreen } from './ContactoScreen';
