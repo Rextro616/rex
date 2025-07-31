@@ -1,0 +1,1 @@
+export { default as ConoceCBScreen } from './ConoceCBScreen';

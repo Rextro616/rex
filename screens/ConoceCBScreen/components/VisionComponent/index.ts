@@ -1,0 +1,1 @@
+export { default as VisionComponent } from './VisionComponent';

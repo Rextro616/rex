@@ -1,0 +1,1 @@
+export { default as QuienesSomosComponent } from './QuienesSomosComponent';

@@ -1,0 +1,1 @@
+export { default as ImagenesFooterComponent } from './ImagenesFooterComponent';

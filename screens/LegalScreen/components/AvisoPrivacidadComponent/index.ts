@@ -1,0 +1,1 @@
+export { default as AvisoPrivacidadComponent } from './AvisoPrivacidadComponent';

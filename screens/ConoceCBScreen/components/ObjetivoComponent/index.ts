@@ -1,0 +1,1 @@
+export { default as ObjetivoComponent } from './ObjetivoComponent';
